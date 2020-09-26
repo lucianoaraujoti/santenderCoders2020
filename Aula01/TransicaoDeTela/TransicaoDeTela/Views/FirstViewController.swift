@@ -30,6 +30,17 @@ class FirstViewController: UIViewController {
     }
     
    
- 
+    @IBAction func cadastrar(_ sender: UIButton) {
+        self.performSegue(withIdentifier: "DetailVc", sender: nil)
+        
+        
+    }
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let vc: DetailVc? =
+            segue.destination as? DetailVc
+        vc?.view.backgroundColor = .red
+    }
+    
+   
 }
 

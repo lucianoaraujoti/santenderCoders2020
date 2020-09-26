@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B840874E251EB13D007C0FAA /* DetailVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = B840874D251EB13D007C0FAA /* DetailVc.swift */; };
 		B87C489A251C12B90075EE0F /* SecondVc.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87C4899251C12B90075EE0F /* SecondVc.swift */; };
 		B8AF5625251C04B000873CEB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AF5624251C04B000873CEB /* AppDelegate.swift */; };
 		B8AF5627251C04B000873CEB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AF5626251C04B000873CEB /* SceneDelegate.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B840874D251EB13D007C0FAA /* DetailVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVc.swift; sourceTree = "<group>"; };
 		B87C4899251C12B90075EE0F /* SecondVc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVc.swift; sourceTree = "<group>"; };
 		B8AF5621251C04B000873CEB /* TransicaoDeTela.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TransicaoDeTela.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8AF5624251C04B000873CEB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 			children = (
 				B87C4899251C12B90075EE0F /* SecondVc.swift */,
 				B8AF5628251C04B000873CEB /* FirstViewController.swift */,
+				B840874D251EB13D007C0FAA /* DetailVc.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				B8AF5625251C04B000873CEB /* AppDelegate.swift in Sources */,
 				B87C489A251C12B90075EE0F /* SecondVc.swift in Sources */,
 				B8AF5627251C04B000873CEB /* SceneDelegate.swift in Sources */,
+				B840874E251EB13D007C0FAA /* DetailVc.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
