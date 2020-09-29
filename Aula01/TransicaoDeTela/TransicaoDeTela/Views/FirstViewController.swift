@@ -38,7 +38,7 @@ class FirstViewController: UIViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let vc: DetailVc? =
             segue.destination as? DetailVc
-        vc?.view.backgroundColor = .red
+        vc?.view.backgroundColor = .orange
     }
     
    

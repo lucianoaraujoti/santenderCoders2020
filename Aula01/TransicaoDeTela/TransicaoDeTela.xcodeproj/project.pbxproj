@@ -17,6 +17,7 @@
 		B8AF5631251C04B400873CEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8AF562F251C04B400873CEB /* LaunchScreen.storyboard */; };
 		B8AF563C251C04B500873CEB /* TransicaoDeTelaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AF563B251C04B500873CEB /* TransicaoDeTelaTests.swift */; };
 		B8AF5647251C04B500873CEB /* TransicaoDeTelaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AF5646251C04B500873CEB /* TransicaoDeTelaUITests.swift */; };
+		B8CC819525229DE100AB01A2 /* Detail.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8CC819425229DE100AB01A2 /* Detail.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		B8AF5642251C04B500873CEB /* TransicaoDeTelaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TransicaoDeTelaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8AF5646251C04B500873CEB /* TransicaoDeTelaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransicaoDeTelaUITests.swift; sourceTree = "<group>"; };
 		B8AF5648251C04B500873CEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8CC819425229DE100AB01A2 /* Detail.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Detail.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				B8AF5624251C04B000873CEB /* AppDelegate.swift */,
 				B8AF5626251C04B000873CEB /* SceneDelegate.swift */,
 				B8AF562A251C04B000873CEB /* Main.storyboard */,
+				B8CC819425229DE100AB01A2 /* Detail.storyboard */,
 				B8AF562D251C04B400873CEB /* Assets.xcassets */,
 				B8AF562F251C04B400873CEB /* LaunchScreen.storyboard */,
 				B8AF5632251C04B400873CEB /* Info.plist */,
@@ -248,6 +251,7 @@
 				B8AF5631251C04B400873CEB /* LaunchScreen.storyboard in Resources */,
 				B8AF562E251C04B400873CEB /* Assets.xcassets in Resources */,
 				B8AF562C251C04B000873CEB /* Main.storyboard in Resources */,
+				B8CC819525229DE100AB01A2 /* Detail.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
